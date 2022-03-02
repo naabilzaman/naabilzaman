@@ -33,7 +33,7 @@
 ![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnabilzaman&show_icons=true&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnabilzaman&theme=dark&" alt="Nabil Zaman" /></p>
 
-![Nabil's worktime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamnabilzaman&theme=dark)
+![Nabil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamnabilzaman&theme=dark)
 
 ---
 
