@@ -33,8 +33,7 @@
 ![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnabilzaman&show_icons=true&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnabilzaman&theme=dark&" alt="Nabil Zaman" /></p>
 
-![Nabil's Top Used Language]!
-(https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAnsh&layout=compact&theme=midnight-purple&langs_count=10)
+![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAnsh&layout=compact&theme=midnight-purple&langs_count=10)
 
 ---
 
