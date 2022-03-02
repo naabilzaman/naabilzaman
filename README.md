@@ -37,7 +37,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting and networking with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em><br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>This is Open Source World so everyone is welcomed for help cause this community is running by each & other's help. :)</em><br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamnabilzaman.iamnabilzaman)
 ![GitHub followers](https://img.shields.io/github/followers/iamnabilzaman?label=Follow&style=plastic)
 
