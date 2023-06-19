@@ -1,4 +1,4 @@
-## Hola Buddies! <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="40px"> [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/iamnabilzaman)
+## Hola Buddies! I'm Nabil Zaman aka voidLinux. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="40px"> [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/iamnabilzaman)
 
 **Languages that I work with:**  
 
