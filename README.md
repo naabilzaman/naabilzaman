@@ -30,7 +30,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub contributions...
 
-![Nabil's GitHub stats](github-readme-stats-six-phi-63.vercel.app/api?username=iamnabilzaman&show_icons=true&theme=dark)
+![Nabil's GitHub stats](github-readme-stats.vercel.app/api?username=iamnabilzaman&show_icons=true&theme=dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnabilzaman&theme=dark&" alt="Nabil Zaman" /></p>
 
 ![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnabilzaman&layout=compact&theme=midnight-purple&langs_count=10)
