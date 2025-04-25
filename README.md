@@ -29,9 +29,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub contributions...
-
-![Nabil's GitHub stats](https://github-readme-stats-naabilzaman.vercel.app/api?username=naabilzaman&show_icons=true&theme=white)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naabilzaman&theme=white&" alt="Nabil Zaman" /></p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alternoegraha)](https://github.com/alternoegraha)
 
 ![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=10)
 
