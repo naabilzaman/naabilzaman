@@ -33,11 +33,6 @@
 
 ![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=10)
 
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>This is Open Source World so everyone is welcomed for help cause this community is running by each & other's help. :)</em><br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=naabilzaman.naabilzaman)
-![GitHub followers](https://img.shields.io/github/followers/naabilzaman?label=Follow&style=plastic)
 
 <!---
 iamnabilzaman/iamnabilzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
