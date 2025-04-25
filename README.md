@@ -29,7 +29,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub contributions...
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alternoegraha)](https://github.com/alternoegraha)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naabilzaman)](https://github.com/naabilzaman)
 
 ![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=10)
 
