@@ -1,4 +1,4 @@
-## Hola Buddies! I'm Nabil Zaman aka voidLinux. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="40px"> [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/iamnabilzaman)
+## Hola Buddies! I'm Nabil Zaman aka voidLinux. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="40px"> [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/naabilzaman)
 
 **Languages that I work with:**  
 
@@ -30,16 +30,16 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub contributions...
 
-![Nabil's GitHub stats](https://github-readme-stats-iamnabilzaman.vercel.app/api?username=iamnabilzaman&show_icons=true&theme=dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnabilzaman&theme=dark&" alt="Nabil Zaman" /></p>
+![Nabil's GitHub stats](https://github-readme-stats-naabilzaman.vercel.app/api?username=naabilzaman&show_icons=true&theme=white)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naabilzaman&theme=white&" alt="Nabil Zaman" /></p>
 
-![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnabilzaman&layout=compact&theme=midnight-purple&langs_count=10)
+![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=10)
 
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>This is Open Source World so everyone is welcomed for help cause this community is running by each & other's help. :)</em><br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamnabilzaman.iamnabilzaman)
-![GitHub followers](https://img.shields.io/github/followers/iamnabilzaman?label=Follow&style=plastic)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=naabilzaman.naabilzaman)
+![GitHub followers](https://img.shields.io/github/followers/naabilzaman?label=Follow&style=plastic)
 
 <!---
 iamnabilzaman/iamnabilzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
