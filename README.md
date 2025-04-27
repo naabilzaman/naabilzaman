@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://www.facebook.com/naabilzaman" title="Facebook">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<img src="https://img.shields.io/badge/Facebook-0047AB?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://api.whatsapp.com/send?phone=+8801701017902" title="Whatsapp">
 <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://www.instagram.com/naabilzaman/" title="Instagram">
