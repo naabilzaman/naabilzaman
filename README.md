@@ -1,7 +1,7 @@
 ## Hola Buddies! I'm Nabil Zaman aka voidLinux. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="40px">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub contributions...
-![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=10)<div align="center"> [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naabilzaman)](https://github.com/naabilzaman)</div>
+![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=10)<div align="right"> [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naabilzaman)](https://github.com/naabilzaman)</div>
 
 <h2 align="center">CONTACT ME</h2>
 <div align="center">
