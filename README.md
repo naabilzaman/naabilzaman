@@ -13,7 +13,7 @@
 <a href="https://api.whatsapp.com/send?phone=+8801701017902" title="Whatsapp">
 <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://www.instagram.com/naabilzaman/" title="Instagram">
-<img src="https://img.shields.io/badge/Instagram-C70039?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://t.me/naabilzaman/" title="Telegram">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 
