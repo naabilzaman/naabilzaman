@@ -11,5 +11,5 @@
 <a href="https://www.instagram.com/naabilzaman/" title="Instagram">
 <img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://t.me/naabilzaman/" title="Telegram">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<img src="https://img.shields.io/badge/Telegram-89CFF0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
