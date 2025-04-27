@@ -15,7 +15,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub contributions...
-![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=8) &nbsp; &nbsp; &nbsp; &nbsp; [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naabilzaman)](https://github.com/naabilzaman)
+![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=12) &nbsp; &nbsp; &nbsp; &nbsp; [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naabilzaman)](https://github.com/naabilzaman)
 
 <h2 align="center">CONTACT ME</h2>
 <div align="center">
