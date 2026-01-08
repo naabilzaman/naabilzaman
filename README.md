@@ -1,7 +1,7 @@
 ## Hey! I'm Nabil Zaman
 <img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=naabilzaman&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
-<div align="center">
+<div align="bottom">
 <a href="https://www.facebook.com/naabilzaman" title="Facebook">
 <img src="https://img.shields.io/badge/Facebook-0047AB?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://api.whatsapp.com/send?phone=+8801701017902" title="Whatsapp">
