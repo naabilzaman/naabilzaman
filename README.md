@@ -1,7 +1,5 @@
 ## Hey! I'm Nabil Zaman
-
-![Nabil's Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=naabilzaman&layout=compact&theme=midnight-purple&langs_count=10) &nbsp; &nbsp; &nbsp; &nbsp;
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=naabilzaman&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=naabilzaman&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 <h2> </h2>
 <div align="center">
